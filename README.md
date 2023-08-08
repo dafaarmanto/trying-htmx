@@ -1,3 +1,5 @@
+https://htmx-prompt.vercel.app/
+
 # Astro Starter Kit: Minimal
 
 ```
